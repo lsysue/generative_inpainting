@@ -1,3 +1,7 @@
 model_logs
 logs
 data
+
+examples/
+output/
+__pycache__/
